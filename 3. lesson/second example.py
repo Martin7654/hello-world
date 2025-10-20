@@ -1,0 +1,10 @@
+a_string = "What a beautiful snake!"
+char = a_string[0] # makes a new variable
+char = a_string[1]
+char = a_string[-1]
+char = a_string[-3]
+substring = a_string[1:5] #new variable, called "hat "
+substring = a_string[1:-3] # from h to a
+substring = a_string[:-2] # skips the index, gets all but last two
+substring = a_string[-2:] # gets last two characters
+result = a_string[::2]  # gets every second character
